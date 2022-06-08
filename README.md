@@ -11,4 +11,4 @@ Installation
 4. Select the folder of this repository.
 
 
-![Screenshot](/source/screenshot.jpg)
+![Screenshot](/source/screenshot2.jpg)
