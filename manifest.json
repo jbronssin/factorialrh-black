@@ -1,0 +1,18 @@
+{
+  "manifest_version": 3,
+ 
+  "name": "Factorial RH Black - Dark Mode",
+  "version": "0.1.1",
+  "description": "Turn your Factorial RH to Black, a nice looking Dark Theme.",
+  "icons": {
+    "128": "icon128.png"
+  },
+  "content_scripts": [
+    {
+      "matches": ["https://*.factorialhr.com/*"],
+      "js": ["script.js"],
+      "css": ["style.css"],
+      "all_frames":true
+    }
+  ]
+}

@@ -1,0 +1,1 @@
+console.log("Woosh, your Factorial is now black ! This information log is totally useless but allows a developper to see if it's working :) 🕶️")
