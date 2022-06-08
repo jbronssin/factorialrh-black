@@ -2,6 +2,8 @@ Factorial RH Dark Theme
 ===========================
 For Chrome Only, small extension to transform your Factorial RH in a nice dark Theme
 
+Official link in Chrome Extension : 
+
 Installation
 ------------
 0. git clone
@@ -11,4 +13,4 @@ Installation
 4. Select the folder of this repository.
 
 
-![Screenshot](/source/screenshot2.jpg)
+![Screenshot](/source/screenshot3.jpg)
