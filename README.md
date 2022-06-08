@@ -1,7 +1,3 @@
-# factorialrh-black
-Factorial RH Dark Theme
-
-
 Factorial RH Dark Theme
 ===========================
 For Chrome Only, small extension to transform your Factorial RH in a nice dark Theme
